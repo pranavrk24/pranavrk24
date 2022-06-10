@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavrk24
-- 🌱 I’m currently learning Goland, Rust, AWS, and other stuff...
+- 🌱 I’m currently learning Golang, Rust, AWS, and other stuff...
 - 📫 How to reach me? Gmail: pranavrk7@gmail.com LinkedIn: https://www.linkedin.com/in/pranav-rk-979126173/
 
 <!---
