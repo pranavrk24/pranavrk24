@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @pranavrk24
-- 🌱 I’m currently learning Golang, Rust, AWS, and other stuff...
-- 📫 How to reach me? Gmail: pranavrk7@gmail.com LinkedIn: https://www.linkedin.com/in/pranav-rk-979126173/
+<p align="center"><a href="https://www.pranavrk24.com">Website</a> • <a href="mailto:pranavrk.me@gmail.com">Email</a> • <a href="https://twitter.com/@pranavrk24">Twitter</a></p>
 
-<!---
-pranavrk24/pranavrk24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">Hi there! I'm Pranav. I love writing code and contributing to open source! I mainly work on backend stuff with Go, Rust, and Rails, and I also work on web programming using Astro, and Svelte whenever I feel like it. Fluent in Tamil and English, currently learning Japanese.</p>
