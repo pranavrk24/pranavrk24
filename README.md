@@ -6,3 +6,8 @@
 
 <p align="center"><img width="1000" src="workspace.png" /></p>
 
+<ul>
+  <li><a href="https://github.com/radar07/.dots">Dotfiles</a></li>
+  <li><a href="https://github.com/radar07/labs">Labs</a></li>
+</ul>
+
